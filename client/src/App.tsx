@@ -1,5 +1,5 @@
 import "./App.css";
-import { ManaBase } from "./component/ManaBase.tsx";
+import { ManaBase } from "./component/mana-base/ManaBase.tsx";
 import { ManaColor } from "./constant/ManaColor.ts";
 
 function App() {
